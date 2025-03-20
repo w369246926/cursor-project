@@ -48,3 +48,4 @@ frontend/yarn-error.log*
 
 # Docker 数据
 docker/postgres-data/ 
+/docker/postgres-data
